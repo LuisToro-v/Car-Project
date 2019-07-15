@@ -1,0 +1,10 @@
+Hyundai,Koga,2012,27891
+Subaru,Forester,2018,12900
+Acura,DX,2017
+Subaru,Forester,2019,12900
+Nissan,Ultima,2016,45376
+Auto,Pilot,2015,54398
+Ford,Fusion,2011,39422
+Honda,LED
+BMW,Red,2014,13904
+Toyota,Corolla,2003,6547
